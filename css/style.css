@@ -1,0 +1,51 @@
+.container{
+    left: 500px;
+}
+.navbar-nav{
+    margin-right: 100px;
+        margin-left: 100px;
+}
+.row{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+   
+.navbar-header {    
+    color: #5383d3;
+    font-size: 1.5em;   
+}
+
+.panel-primary {
+    font-family: sans-serif;
+    margin-left:100px;
+    margin-right:100px; 
+    
+} 
+.navbar-default {
+    background-color:aliceblue;   
+    color: black;
+}
+.h3{
+    font-size: 20px;
+
+    
+}
+.navbar-brand  {
+    
+    font-size: 1.5em;
+}
+.col-md-12 {
+    
+    
+    padding: 1em;
+    
+}
+
+.col-lg-12 a{
+    
+}
+footer {
+    font-size: 30px;
+    
+}
+
